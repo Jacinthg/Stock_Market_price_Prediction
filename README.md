@@ -1,5 +1,5 @@
 # StockMind AI — Production V2
-### © 2025 Selladurai S · Paavai College of Engineering · All Rights Reserved
+### © 2025 Jacinth G · Paavai College of Engineering · All Rights Reserved
 
 ---
 
@@ -102,7 +102,7 @@ your-project/
 
 ## ⚖️ Legal Notice
 
-**© 2025 Selladurai S. All Rights Reserved.**
+**© 2025 Jacinth G. All Rights Reserved.**
 Paavai College of Engineering · B.Tech – Artificial Intelligence & Data Science
 StockMind AI – Deep Learning Stock Price Predictor
 
